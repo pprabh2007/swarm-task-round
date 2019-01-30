@@ -1,5 +1,5 @@
 Steps to do \
-Make image_generator\
+make image_generator\
 ./image_generator\
 give an integer as input as a seed\
 The diagonal end points of the rectangle will be saved in Endpoints.txt in the following format(each line will correspond to one rectangle) \
